@@ -1,6 +1,8 @@
 # Prompts utilizados no NotebookLM
 
-Este arquivo reúne os principais prompts utilizados no NotebookLM durante o estudo sobre educação financeira básica para profissionais de tecnologia e freelancers. Os prompts foram organizados para apoiar resumos, glossários, perguntas de revisão e aplicações práticas com base nas fontes adicionadas ao caderno.
+Este arquivo reúne os principais prompts utilizados no NotebookLM durante o estudo sobre educação financeira básica para profissionais de tecnologia e freelancers.
+
+Os prompts foram organizados para apoiar resumos, glossários, perguntas de revisão e aplicações práticas com base nas fontes adicionadas ao caderno.
 
 ## Prompt 1 — Resumo geral
 
