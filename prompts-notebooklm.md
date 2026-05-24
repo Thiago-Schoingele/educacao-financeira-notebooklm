@@ -1,5 +1,9 @@
 # Prompts utilizados no NotebookLM
 
+Este arquivo reúne os prompts utilizados no NotebookLM durante o estudo sobre Educação Financeira Básica para Profissionais de Tecnologia e Freelancers.
+
+Os prompts foram organizados para apoiar a criação de resumos, glossários, perguntas de revisão e aplicações práticas com base nas fontes adicionadas ao caderno.
+
 ## Prompt 1 — Resumo geral
 
 Explique os principais conceitos de educação financeira encontrados nas fontes deste caderno. Use linguagem simples e organize a resposta em tópicos.
