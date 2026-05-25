@@ -1,11 +1,13 @@
 # Assets do projeto
 
-Esta pasta armazena os arquivos visuais utilizados no projeto, como a capa do miniguia.
+Esta pasta armazena os arquivos visuais utilizados no projeto.
 
-Arquivo esperado:
+## Arquivo esperado
 
-- capa-educacao-financeira.png
+- `capa-educacao-financeira.png`
 
-Observação:
+## Descrição
 
-A imagem de capa foi criada para representar visualmente o tema “Educação Financeira Básica para Profissionais de Tecnologia e Freelancers”, com uma estética dark tech, moderna e profissional.
+A imagem de capa foi criada para representar visualmente o tema Educação Financeira Básica para Profissionais de Tecnologia e Freelancers.
+
+A estética utilizada segue uma linha dark tech, moderna e profissional, conectando educação financeira, tecnologia e organização.
