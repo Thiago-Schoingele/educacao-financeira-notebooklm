@@ -1,0 +1,37 @@
+name: CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  markdown-check:
+    name: Validate project files
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required files
+        run: |
+          test -s README.md
+          test -s miniguia-educacao-financeira.md
+          test -s fontes-utilizadas.md
+          test -s prompts-notebooklm.md
+          test -s notebooklm-registros.md
+          test -s assets/README.md
+          test -s assets/capa-educacao-financeira.png
+
+      - name: Check Markdown headings
+        run: |
+          grep -q '^# Educação Financeira Básica para Profissionais de Tecnologia e Freelancers$' README.md
+          grep -q '^# Miniguia de Estudo' miniguia-educacao-financeira.md
+          grep -q '^# Fontes utilizadas$' fontes-utilizadas.md
+          grep -q '^# Prompts utilizados no NotebookLM$' prompts-notebooklm.md
+          grep -q '^# Registros do NotebookLM$' notebooklm-registros.md
+          grep -q '^# Assets do projeto$' assets/README.md
