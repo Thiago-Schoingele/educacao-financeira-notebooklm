@@ -1,5 +1,7 @@
 # Educação Financeira Básica para Profissionais de Tecnologia e Freelancers
 
+[![CI](https://github.com/Thiago-Schoingele/educacao-financeira-notebooklm/actions/workflows/ci.yml/badge.svg)](https://github.com/Thiago-Schoingele/educacao-financeira-notebooklm/actions/workflows/ci.yml)
+
 ## Sobre o projeto
 
 Este projeto foi desenvolvido como parte de um desafio da DIO, utilizando o NotebookLM como ferramenta de apoio para organização de estudos.
