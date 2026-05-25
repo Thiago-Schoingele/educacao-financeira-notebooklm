@@ -21,9 +21,7 @@ Cole aqui a resposta gerada pelo NotebookLM.
 Referências indicadas pelo NotebookLM:
 
 - Fonte:
-
 - Trecho:
-
 - Observação:
 
 ## Registro do Prompt 2 — Aplicação para freelancers
@@ -39,9 +37,7 @@ Cole aqui a resposta gerada pelo NotebookLM.
 Referências indicadas pelo NotebookLM:
 
 - Fonte:
-
 - Trecho:
-
 - Observação:
 
 ## Registro do Prompt 3 — Orçamento financeiro
@@ -57,9 +53,7 @@ Cole aqui a resposta gerada pelo NotebookLM.
 Referências indicadas pelo NotebookLM:
 
 - Fonte:
-
 - Trecho:
-
 - Observação:
 
 ## Registro do Prompt 4 — Separação das finanças
@@ -75,9 +69,7 @@ Cole aqui a resposta gerada pelo NotebookLM.
 Referências indicadas pelo NotebookLM:
 
 - Fonte:
-
 - Trecho:
-
 - Observação:
 
 ## Registro do Prompt 5 — Glossário financeiro
@@ -93,7 +85,5 @@ Cole aqui a resposta gerada pelo NotebookLM.
 Referências indicadas pelo NotebookLM:
 
 - Fonte:
-
 - Trecho:
-
 - Observação:

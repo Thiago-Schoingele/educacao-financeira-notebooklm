@@ -21,19 +21,12 @@ Por isso, estudar educação financeira básica pode ajudar a criar uma rotina m
 ## 4. Perguntas estratégicas
 
 1. Quais são os principais conceitos de educação financeira presentes nas fontes?
-
 2. Como um freelancer ou profissional de tecnologia pode organizar melhor suas receitas e despesas?
-
 3. Qual é a importância de separar finanças pessoais e profissionais?
-
 4. Como criar um orçamento simples para acompanhar ganhos, gastos e metas?
-
 5. Quais são os principais erros financeiros que profissionais autônomos devem evitar?
-
 6. Como o planejamento financeiro pode ajudar um profissional freelancer a tomar melhores decisões?
-
 7. Quais termos financeiros aparecem com mais frequência nas fontes e o que eles significam?
-
 8. Como transformar os conceitos estudados em uma rotina simples de controle financeiro?
 
 ## 5. Resumo estruturado
@@ -55,37 +48,23 @@ Com uma rotina simples de registro, revisão e organização, os conceitos finan
 ## 6. Glossário inicial
 
 - **Receita:** dinheiro que entra, como pagamentos de clientes, salários, contratos ou serviços realizados.
-
 - **Despesa:** dinheiro que sai para pagar contas, compras, ferramentas, serviços ou outras necessidades.
-
 - **Orçamento:** organização das receitas e despesas em um período, como uma semana ou um mês.
-
 - **Planejamento financeiro:** processo de definir objetivos, organizar recursos e acompanhar decisões relacionadas ao dinheiro.
-
 - **Reserva financeira:** valor guardado para lidar com imprevistos ou períodos de menor entrada de dinheiro.
-
 - **Finanças pessoais:** organização do dinheiro usado na vida pessoal, como moradia, alimentação, transporte, lazer e contas do dia a dia.
-
 - **Finanças profissionais:** organização do dinheiro ligado ao trabalho, como recebimentos de clientes, custos de ferramentas, impostos e investimentos na atividade profissional.
-
 - **Fluxo de caixa:** acompanhamento das entradas e saídas de dinheiro ao longo do tempo.
-
 - **Investimento:** aplicação de recursos com o objetivo de preservar ou aumentar valor no futuro, considerando riscos e prazos.
-
 - **Risco financeiro:** possibilidade de perda, desequilíbrio ou dificuldade financeira causada por escolhas, imprevistos ou falta de planejamento.
 
 ## 7. Aplicação prática para profissionais de tecnologia e freelancers
 
 - Registrar todas as entradas e saídas de dinheiro, mesmo que seja em uma planilha simples.
-
 - Separar uma conta pessoal de uma conta usada para a atividade profissional, quando possível.
-
 - Acompanhar custos de ferramentas, plataformas, cursos, equipamentos e serviços usados no trabalho.
-
 - Criar uma reserva para meses com menor demanda, atrasos de pagamento ou imprevistos.
-
 - Definir metas financeiras realistas, como organizar dívidas, guardar uma parte dos recebimentos ou investir em capacitação.
-
 - Revisar o orçamento periodicamente para ajustar gastos, prioridades e decisões.
 
 ## 8. Conclusão
